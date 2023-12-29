@@ -36,7 +36,7 @@ This script uses Pyrogram to scrape messages and media from a Telegram group.
 Run the script using the following command:
 
 ```bash
-python pyrogram-starter.py
+python pyrogram_starter.py
 
 
 
